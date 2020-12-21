@@ -1,0 +1,10 @@
+Z Stop Calibration
+
+(for .1-.2mm, use M212 Z-.7)
+
+(for .3mm, use M212 Z-.5)
+
+M501 ; Check Parameters
+M212 Z-.7 ; Set Z Stop
+M500 ; Save
+M501 ; Verify
