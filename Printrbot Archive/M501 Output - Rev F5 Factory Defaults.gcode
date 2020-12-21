@@ -1,6 +1,6 @@
 (Default settings of the Printrboard Rev. F5 as received from the factory.)
 (Printrboard HW Rev. F5)
-(FW version unknown)
+(FW version - Printrbot Official v5)
 (Stored settings retrieved)
 (Steps per unit:)
   M92 X80.00 Y80.00 Z2020.00 E96.00

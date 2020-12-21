@@ -1,5 +1,5 @@
 (Printrboard HW Rev. F5)
-(FW version unknown)
+(FW version - Printrbot Official v5)
 (Steps per unit:)
   M92 X79.50 Y79.50 Z2020.00 E97.00
 (Maximum feedrates (mm/s):)
