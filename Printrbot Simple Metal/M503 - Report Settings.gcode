@@ -17,8 +17,8 @@ echo:  M206 X0.00 Y0.00 Z0.00
 echo:; Auto Bed Leveling:
 echo:  M420 S0
 echo:; PID settings:
-echo:  M301 P40.15 I7.10 D56.73
-echo:  M304 P70.61 I7.18 D173.53
+echo:  M301 P37.12 I2.98 D115.55 
+echo:  M304 P49.27 I0.94 D1722.26
 echo:; Retract: S<length> F<units/m> Z<lift>
 echo:  M207 S1.50 W13.00 F3000.00 Z0.00
 echo:; Recover: S<length> F<units/m>
