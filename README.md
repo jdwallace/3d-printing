@@ -20,6 +20,10 @@
 
 [Kit Build Guide Rev. F](https://github.com/jdwallace/3d-printing/blob/main/Printrbot%20Simple%20Metal/Documentation/Printrbot%20Simple%20(Model%201403)%20Rev%20F%20Printrboard.pdf)
 
+[Bill of Materials](https://www.brookdrumm.com/s/OLD___Inventory_BOM2016-SimpleCOGS-5-tajx.numbers)
+
+[Design File](https://a360.co/2UhjiS1)
+
 ## My Printrbot Simple Metal Rev. F5
 [Printrbot Parameters](https://github.com/jdwallace/3d-printing/blob/main/Printrbot%20Simple%20Metal/Printrbot%20Parameters.md)
 
