@@ -27,4 +27,4 @@
 [Brook Drumm (Founder and CEO of Printrbot)](https://www.brookdrumm.com/)  
 [Ubis Technology](https://ubishotends.com/)  
 [Simple Metal on Adafruit](https://www.adafruit.com/product/1760#:~:text=The%20Printrbot%20Simple%20is%20an,fits%20nicely%20on%20your%20desk!)  
-
+[Printrbot Simple Metal Users on Thingiverse](https://www.thingiverse.com/groups/printrbot-simple-metal-users)  
