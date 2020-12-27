@@ -6,7 +6,7 @@
 [My Latest Calibration Results](https://github.com/jdwallace/3d-printing/blob/main/Printrbot%20Simple%20Metal/Calibration.md)  
 [M115 Firmware Info](https://github.com/jdwallace/3d-printing/blob/main/Printrbot%20Simple%20Metal/M115%20-%20Firmware%20Info.gcode)  
 [M503 Settings](https://github.com/jdwallace/3d-printing/blob/main/Printrbot%20Simple%20Metal/M115%20-%20Firmware%20Info.gcode)  
-[Slic3r Profile](https://github.com/jdwallace/3d-printing/blob/main/Slicer%20Profiles/Slic3r_config_bundle.ini)
+[PrusaSlicer Profile](https://github.com/jdwallace/3d-printing/blob/main/Slicer%20Profiles/PrusaSlicer_config_bundle.ini)
 ## Latest Firmware
 [Latest Marlin 2.0.x with My Configuration for Printrboard Rev. D & F](https://github.com/jdwallace/3d-printing/releases/)  
 [How-To: Upgrade Printrbot Simple Metal Firmware to Marlin 2.0](https://www.jdwallace.com/post/printrbot-simple-metal-marlin2)  
