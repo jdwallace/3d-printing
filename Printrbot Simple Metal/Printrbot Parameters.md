@@ -1,4 +1,32 @@
-# [Technical Specifications](https://www.treatstock.com/machines/item/70-printrbot-simple-metal) (Advertised):
+# Technical Specifications  
+## My Printrbot Specifications:
+- Form Factor: Rectangular
+- Origin: Lower Left
+- Print Volume: 
+  - Width (X):  252mm
+  - Depth (Y):  152mm
+  - Height (Z): 155mm
+- Max Speed/Feedrate:
+  - X: 125mm/sec (75000mm/min)
+  - Y: 125mm/sec (75000mm/min)
+  - Z: 5mm/sec (300mm/min)
+  - E: 14mm/sec (840mm/min)
+- Steps:
+  - X: 80
+  - Y: 80
+  - Z: 2016
+  - E: 94.5
+- Nozzle: 0.4mm Diameter
+- Filament: 1.75mm
+- Max Temps:
+  - Extruder: 270C
+  - Bed: 80C
+- Slicer Settings:
+  - Max Layer Height: 0.32mm
+  - Typical Layer Height: 0.2mm
+  - Min Extrusion Width: 0.4mm
+
+## [As Advertised](https://www.treatstock.com/machines/item/70-printrbot-simple-metal):
 
 - Model: 1403
 - Build Volume: 6″ x 6″ x 6″ / 150mm x 150mm x 150mm / 216 cubic inches
@@ -99,7 +127,7 @@
 - Default Exruder Temp [C]          200
 - Default Heated Bed Temp [C]       53
 ## Extruder
-- Max Extruder Temp             275
+- Max Extruder Temp             270 (error at 275)
 - Max Bed Temp                  80
 - Max Volume per second [mm3/s]
 - Diameter                      0.4
