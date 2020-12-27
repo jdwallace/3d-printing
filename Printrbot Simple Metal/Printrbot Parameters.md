@@ -76,7 +76,7 @@
 ## Movement
 - Stepper Drivers A4988
 - AXIS_STEPS_PER_UNIT (M92)       X80.00 Y80.00 Z2020.00 E94.50
-- MAX_FEEDRATE (M203)             X300 Y300 Z7 E40
+- MAX_FEEDRATE (M203)             X125, Y125, Z5, E14
 
 ## Acceleration
 - MAX_ACCELERATION (M201)         X2000 Y2000 Z100 E10000
