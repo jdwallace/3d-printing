@@ -20,11 +20,9 @@ Data from [My Printrbot Parameters](https://github.com/jdwallace/3d-printing/blo
 ## Measured - 94.5
 **94.5** (Old measurment, will confirm.)
 
-# Z Height - (Z=-0.7)
-0.2mm is a good gap between hotend and bed.
-
-## Measured
-Z Probe Offset = -0.70mm
+# Z Probe Offset - (Z=-0.35)
+## Measured and set with M851 Z-0.35
+Z Probe Offset = -0.35mm
 
 # Slicer Settings
 Using 0.4mm Nozzle  
