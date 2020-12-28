@@ -23,6 +23,7 @@
 [Printrbot on GitHub](https://github.com/Printrbot)  
 [Printrbot on YouTube](https://www.youtube.com/user/printrbot)  
 [Printrbot on YouMagine (Designs)](https://www.youmagine.com/printrbot/designs)  
+[Printrbot Designs on Brook Drumm's GitHub](https://github.com/abdrumm/printrbotdesigns)  
 [Printrbot 2020](https://www.printrbot.com/)   
 [Brook Drumm (Founder and CEO of Printrbot)](https://www.brookdrumm.com/)  
 [Ubis Technology](https://ubishotends.com/)  
