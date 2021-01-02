@@ -20,9 +20,9 @@ Data from [My Printrbot Parameters](https://github.com/jdwallace/3d-printing/blo
 ## Measured - 94.5
 **94.5** (Old measurment, will confirm.)
 
-# Z Probe Offset - (Z=-0.30)
-## Measured and set with M851 Z-0.30
-Z Probe Offset = -0.30mm
+# Z Probe Offset - (Z=-0.35)
+## Measured and set with M851 Z-0.35
+Z Probe Offset = -0.35mm
 
 # Slicer Settings
 Using 0.4mm Nozzle  
