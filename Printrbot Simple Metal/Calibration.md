@@ -22,8 +22,8 @@ Data from [My Printrbot Parameters](https://github.com/jdwallace/3d-printing/blo
 (motor_steps_per_rev * driver_microstep) * (big_gear_teeth / small_gear_teeth) / (hob_effective_diameter * pi) = e_steps_per_mm  
 (200 * 16) * (1 / 1) / (10.56 * 3.14159) = **96.5**
 
-## Measured - 94.5
-**94.5** (Old measurment, will confirm.)
+## [Measured](https://mattshub.com/blogs/blog/extruder-calibration) - 92.42  
+
 
 # Z Probe Offset - (Z=-0.3)
 ## Measured and set with M851 Z-0.3

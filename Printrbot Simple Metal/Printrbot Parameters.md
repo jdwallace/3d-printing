@@ -15,7 +15,7 @@
   - X: 80
   - Y: 80
   - Z: 2016
-  - E: 94.5
+  - E: 92.42
 - Nozzle: 0.4mm Diameter
 - Filament: 1.75mm
 - Max Temps:
@@ -80,7 +80,7 @@
 - Max Temp 80C
 - X_BED_SIZE 252
 - Y_BED_SIZE 152
-- Z_MAX_POS 155
+- Z_MAX_POS 140 (155 w/o spool holder)
 
 # Z Axis Rod
 - 1/4-16 Carbon Steel Acme Rod
