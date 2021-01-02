@@ -5,7 +5,7 @@
 - Print Volume: 
   - Width (X):  252mm
   - Depth (Y):  152mm
-  - Height (Z): 155mm
+  - Height (Z): 140mm (155mm w/o spool holder)
 - Max Speed/Feedrate:
   - X: 125mm/sec (75000mm/min)
   - Y: 125mm/sec (75000mm/min)
