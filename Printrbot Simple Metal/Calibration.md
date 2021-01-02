@@ -7,9 +7,14 @@ Data from [My Printrbot Parameters](https://github.com/jdwallace/3d-printing/blo
  steps_per_mm = (motor_steps_per_rev * driver_microstep) / (belt_pitch * pulley_number_of_teeth)  
  **80** = (200 * 16) / (2 * 20)
 
-# Z Steps - 2016
+# Z Steps (Stock z-axis screw) - 2016
 (motor_steps_per_rev * driver_microstep) / thread_pitch = steps_per_mm  
 **2016** = (200 * 16) / 1.5875  
+(Original recommended parameter from Printrbot is 2020)
+
+# Z Steps (Replacement 8mm lead screw) - 1600
+(motor_steps_per_rev * driver_microstep) / thread_pitch = steps_per_mm  
+**1600** = (200 * 16) / 2  
 (Original recommended parameter from Printrbot is 2020)
 
 # E Steps - 96.5 / 94.5
