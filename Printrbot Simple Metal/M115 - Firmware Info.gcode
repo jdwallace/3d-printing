@@ -26,3 +26,6 @@ Recv: Cap:MOTION_MODES:0
 Recv: Cap:ARCS:0
 Recv: Cap:BABYSTEPPING:1
 Recv: Cap:CHAMBER_TEMPERATURE:0
+Recv: ok P15 B3
+Send: M155 S2
+Recv: ok P15 B3

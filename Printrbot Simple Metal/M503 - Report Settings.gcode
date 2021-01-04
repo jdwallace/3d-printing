@@ -1,9 +1,10 @@
 Send: M503
 Recv: echo:  G21    ; Units in mm (mm)
+Recv: 
 Recv: echo:; Filament settings: Disabled
 Recv: echo:  M200 S0 D1.75
 Recv: echo:; Steps per unit:
-Recv: echo: M92 X80.00 Y80.00 Z2020.00 E94.50
+Recv: echo: M92 X80.00 Y80.00 Z400.00 E92.42
 Recv: echo:; Maximum feedrates (units/s):
 Recv: echo:  M203 X125.00 Y125.00 Z5.00 E14.00
 Recv: echo:; Maximum Acceleration (units/s2):
@@ -17,7 +18,7 @@ Recv: echo:  M206 X0.00 Y0.00 Z0.00
 Recv: echo:; Auto Bed Leveling:
 Recv: echo:  M420 S0
 Recv: echo:; PID settings:
-Recv: echo:  M301 P37.12 I2.98 D115.55
+Recv: echo:  M301 P25.80 I3.94 D42.27
 Recv: echo:  M304 P49.27 I0.94 D1722.26
 Recv: echo:; Retract: S<length> F<units/m> Z<lift>
 Recv: echo:  M207 S1.50 W13.00 F3000.00 Z0.00
@@ -26,8 +27,9 @@ Recv: echo:  M208 S0.00 W0.00 F480.00
 Recv: echo:; Auto-Retract: S=0 to disable, 1 to interpret E-only moves as retract/recover
 Recv: echo:  M209 S0
 Recv: echo:; Z-Probe Offset (mm):
-Recv: echo:  M851 X20.00 Y0.00 Z-0.3
+Recv: echo:  M851 X20.00 Y0.00 Z-0.30
 Recv: echo:; Linear Advance:
 Recv: echo:  M900 K0.08
 Recv: echo:; Filament load/unload lengths:
 Recv: echo:  M603 L0.00 U100.00
+Recv: ok P15 B3

@@ -7,23 +7,21 @@ Data from [My Printrbot Parameters](https://github.com/jdwallace/3d-printing/blo
  steps_per_mm = (motor_steps_per_rev * driver_microstep) / (belt_pitch * pulley_number_of_teeth)  
  **80** = (200 * 16) / (2 * 20)
 
-# Z Steps (Stock z-axis screw) - 2016
+# Z Steps (Stock Z Axis screw) - 2016
 (motor_steps_per_rev * driver_microstep) / thread_pitch = steps_per_mm  
 **2016** = (200 * 16) / 1.5875  
 (Original recommended parameter from Printrbot is 2020)
 
-# Z Steps (Replacement 8mm lead screw) - 1600
+# Z Steps (Replacement 8mm T8 lead screw) - 400
 (motor_steps_per_rev * driver_microstep) / thread_pitch = steps_per_mm  
-**1600** = (200 * 16) / 2  
-(Original recommended parameter from Printrbot is 2020)
+**400** = (200 * 16) / 8  
 
-# E Steps - 96.5 / 94.5
+# E Steps - 96.5 / 92.42
 ## Calculated - 96.5
 (motor_steps_per_rev * driver_microstep) * (big_gear_teeth / small_gear_teeth) / (hob_effective_diameter * pi) = e_steps_per_mm  
 (200 * 16) * (1 / 1) / (10.56 * 3.14159) = **96.5**
 
 ## [Measured](https://mattshub.com/blogs/blog/extruder-calibration) - 92.42  
-
 
 # Z Probe Offset - (Z=-0.3)
 ## Measured and set with M851 Z-0.3
@@ -61,7 +59,7 @@ My actual print bed surface temperature as measured by an IR thermometer tends t
 
 # E Steps Fine Tuning
 
-TODO
+[92.42](https://mattshub.com/blogs/blog/extruder-calibration)
 
 # Other Calibration Guides
 - [Prusa KB Calibration](https://help.prusa3d.com/en/category/calibration_199)
@@ -72,3 +70,4 @@ TODO
 - [The Essential Calibration Set](https://www.thingiverse.com/thing:5573)
 - [Calibration of your RepRap](https://sites.google.com/site/repraplogphase/calibration-of-your-reprap)
 - [XY 20 mm Calibration Box](https://www.thingiverse.com/thing:298812)
+- [Extruder Calibration](https://mattshub.com/blogs/blog/extruder-calibration)

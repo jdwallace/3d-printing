@@ -736,7 +736,8 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2020, 92.42 } 
+//#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 2020, 92.42 } // Z Steps for Printrbot stock 1/4-16 Z Axis rod
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 92.42 }    // Z Steps for aftermarket 8mm T8 Trapezoidal Lead Screw
 
 /**
  * Default Max Feed Rate (mm/s)

@@ -14,7 +14,7 @@
 - Steps:
   - X: 80
   - Y: 80
-  - Z: 2016
+  - Z: 400
   - E: 92.42
 - Nozzle: 0.4mm Diameter
 - Filament: 1.75mm
@@ -82,11 +82,16 @@
 - Y_BED_SIZE 152
 - Z_MAX_POS 140 (155 w/o spool holder)
 
-# Z Axis Rod
+# Z Axis Rod (Printrbot Stock)
 - 1/4-16 Carbon Steel Acme Rod
 - Thread Size: 1/4 inch
 - Pitch: 16 threads per inch OR 25.4 / 16 = 1.5875 threads per mm
 - Length: 190mm
+
+# Z Axis Rod (My aftermarket replacement)
+- 8mm T8 Trapezoidal Lead Screw
+- Pitch: 8 threads per mm
+- Length: 250mm
 
 # Calibration
 
